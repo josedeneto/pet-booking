@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+
 Este é um projecto Next Js
 
-## Getting Started
+## Fonte
 
-Veja em [http://localhost:3000](http://localhost:3000) 
+Veja em [https://pet-booking-1kav.vercel.app/]([(https://pet-booking-1kav.vercel.app/)) 
+![image](https://github.com/user-attachments/assets/71811f17-1b67-4fa4-8f2e-b7c55f35fdff)
 
 
 ## Tecnologias utilizadas
