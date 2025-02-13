@@ -17,7 +17,7 @@ const services = [
         description: "Inclui banho com produtos especificos para o tipo de pelagem e pele do animal, corte de unhas, limpeza das orelhas e tosa personalizada (higiênica ou estilizada)",
         duration: "1h",
         price: "$50",
-        icon: <Scissors />,
+        icon: <Hotel />,
         linkText: "Olá, vi no site sobre Banho e tosa e gostaria de mais informações"
     },
     {
@@ -25,7 +25,7 @@ const services = [
         description: "Inclui banho com produtos especificos para o tipo de pelagem e pele do animal, corte de unhas, limpeza das orelhas e tosa personalizada (higiênica ou estilizada)",
         duration: "1h",
         price: "$50",
-        icon: <Scissors />,
+        icon: <CarTaxiFront />,
         linkText: "Olá, vi no site sobre Banho e tosa e gostaria de mais informações"
     },
     {
